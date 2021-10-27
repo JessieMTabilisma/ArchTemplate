@@ -1,0 +1,10 @@
+.slider {
+  background-color: rgb(250, 250, 250);
+  margin-top: 5rem;
+  height: 100%;
+  cursor: url('../../assets/drag.svg'), auto !important;
+  text-align: center;
+}
+.img {
+  padding: 5rem 5rem 5rem 5rem;
+}
